@@ -8042,7 +8042,7 @@ JSONEditor.defaults.resolvers.unshift(function(schema) {
   }
 })();
 
-  window.JSONEditor = JSONEditor;
+  window.JSONEditor2 = JSONEditor;
 })();
 
 //# sourceMappingURL=jsoneditor.js.map
